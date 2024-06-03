@@ -36,3 +36,8 @@ KursRepository zu Kurs TypeScript - Grundlagenkurs der ppedv AG
 -   [x] template literals
 -   [x] Labs: Einheiten konvertieren
 -   [x] Labs: Mini-Lotto
+
+## M004 | GENERICS & UTILITY TYPES
+
+-   [x] Generics
+-   [x] Utility Types
