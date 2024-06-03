@@ -34,3 +34,5 @@ KursRepository zu Kurs TypeScript - Grundlagenkurs der ppedv AG
 -   [x] function type
 -   [x] arrow function
 -   [x] template literals
+-   [x] Labs: Einheiten konvertieren
+-   [x] Labs: Mini-Lotto
