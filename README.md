@@ -15,4 +15,13 @@ KursRepository zu Kurs TypeScript - Grundlagenkurs der ppedv AG
 - [x] VS Code
 - [x] node & [npm](https://www.npmjs.com/)
 - [x] tsc, Greeter
-- [ ] Lab: LoginForm
+- [x] Lab: LoginForm
+
+## M002 | [TYPESYSTEM](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
+
+- [x] primitives, null, undefined
+- [x] object, arrays
+- [x] union type
+- [x] type aliases
+- [x] tuples
+- [x] enums
