@@ -55,3 +55,13 @@ KursRepository zu Kurs TypeScript - Grundlagenkurs der ppedv AG
 -   [x] interfaces, duck typing
 -   [x] Lab: Vehicles
 -   [x] Lab: ILoadable
+
+## M007 | ECMAScript
+
+-   [x] Promises, async/await
+-   [ ] Lab: fetch Todo-Liste
+
+<!-- LAB
+    Todo Liste generieren
+    'https://jsonplaceholder.typicode.com/todos'
+-->
