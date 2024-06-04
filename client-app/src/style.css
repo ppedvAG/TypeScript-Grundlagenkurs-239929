@@ -82,6 +82,13 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+div.todoList {
+  width: 100%;
+  min-width: 400px;
+  min-height: 100px;
+  text-align: left;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
