@@ -53,5 +53,5 @@ KursRepository zu Kurs TypeScript - Grundlagenkurs der ppedv AG
 -   [x] namespaces, classes
 -   [x] heritage, override
 -   [x] interfaces, duck typing
--   [ ] Lab: Vehicles
--   [ ] Lab: ILoadable
+-   [x] Lab: Vehicles
+-   [x] Lab: ILoadable
