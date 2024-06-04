@@ -75,3 +75,9 @@ KursRepository zu Kurs TypeScript - Grundlagenkurs der ppedv AG
 -   [x] Source Maps, debugger
 -   [x] Network Monitoring
 -   [x] Chrome Extensions
+
+## M009 | SONSTIGES
+
+-   [x] Iterators, Generators
+-   [x] Decorators
+-   [x] RxJS in Client-App

@@ -1,4 +1,3 @@
-import { info } from 'console';
 import { BookDetails, addBookNotes, getBookDetails, printBookDetails } from './book.class';
 
 console.log('Start module');
