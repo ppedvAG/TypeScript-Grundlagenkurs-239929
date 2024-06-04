@@ -41,3 +41,9 @@ KursRepository zu Kurs TypeScript - Grundlagenkurs der ppedv AG
 
 -   [x] Generics
 -   [x] Utility Types
+
+## M005 | [MODULE & SCOPES](https://www.typescriptlang.org/docs/handbook/modules/theory.html)
+
+-   [x] CommonJS, ES Modules
+-   [x] Scopes, var, let, const
+-   [x] ambients, [declaration files](https://www.typescriptlang.org/docs/handbook/declaration-files/by-example.html#handbook-content)
