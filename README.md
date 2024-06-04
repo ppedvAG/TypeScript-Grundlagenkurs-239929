@@ -47,3 +47,11 @@ KursRepository zu Kurs TypeScript - Grundlagenkurs der ppedv AG
 -   [x] CommonJS, ES Modules
 -   [x] Scopes, var, let, const
 -   [x] ambients, [declaration files](https://www.typescriptlang.org/docs/handbook/declaration-files/by-example.html#handbook-content)
+
+## M006 | OOP [Classes](https://www.typescriptlang.org/docs/handbook/2/classes.html)
+
+-   [x] namespaces, classes
+-   [x] heritage, override
+-   [x] interfaces, duck typing
+-   [ ] Lab: Vehicles
+-   [ ] Lab: ILoadable
