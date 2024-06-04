@@ -59,9 +59,19 @@ KursRepository zu Kurs TypeScript - Grundlagenkurs der ppedv AG
 ## M007 | ECMAScript
 
 -   [x] Promises, async/await
--   [ ] Lab: fetch Todo-Liste
+-   [x] Lab: fetch Todo-Liste
 
 <!-- LAB
     Todo Liste generieren
     'https://jsonplaceholder.typicode.com/todos'
 -->
+
+## M008 | FEHLERSUCHE
+
+-   [x] Troubleshooting
+-   [x] Nodejs debugging
+-   [x] DevTools
+-   [x] Logging
+-   [x] Source Maps, debugger
+-   [x] Network Monitoring
+-   [x] Chrome Extensions
